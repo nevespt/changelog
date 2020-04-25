@@ -1,5 +1,5 @@
 # Title of your homepage
-title: ChangeLog of MLOW.FLIX #(required)
+title: ChangeLog | MLOW.FLIX #(required)
 
 # Website Description for search engines (optional)
 description: "Keep yourself up to date with our new product features"
@@ -8,7 +8,7 @@ description: "Keep yourself up to date with our new product features"
 heading: Updates # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/logo.png #(required)
+logo: http://flix.mlow.rf.gd//assets/global/logo.png #(required)
 
 # Your Product's Website
 website: http://flix.mlow.rf.gd/ # (required)
