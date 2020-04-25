@@ -10,4 +10,6 @@
 
 - name: Improvement
   color: purple
-    
+
+- name: Removed
+  color: red
